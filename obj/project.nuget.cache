@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "x7RVixfgOp8CQb/kNAzpI0Ld8P78GJ4/qQ+lFsavACjCJSTBxRz5TB+n9lTuHI3Jwx1u1K7N7foHrDEuRhvAoA==",
+  "dgSpecHash": "RifLfFA7+CkeuEagdjGoRg4hzBOl5VxnPg8bsrC4XPlECJ7RFmwgVzWo4JGNmt7F7y3TktQv1Ne61pgDJGPylg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluno\\Desktop\\Lista-EngenhariaDSoftware\\Lista-EngenhariaDSoftware.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\yan rodrigues\\Desktop\\Lista-EngenhariaDSoftware\\Lista-EngenhariaDSoftware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yan rodrigues\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\yan rodrigues\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\yan rodrigues\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\yan rodrigues\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

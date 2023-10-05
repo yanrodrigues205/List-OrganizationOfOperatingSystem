@@ -13,3 +13,18 @@ C:\Users\aluno\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\refint\Lista-E
 C:\Users\aluno\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.pdb
 C:\Users\aluno\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.genruntimeconfig.cache
 C:\Users\aluno\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\ref\Lista-EngenhariaDSoftware.dll
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\bin\Debug\net6.0\Lista-EngenhariaDSoftware.exe
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\bin\Debug\net6.0\Lista-EngenhariaDSoftware.deps.json
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\bin\Debug\net6.0\Lista-EngenhariaDSoftware.runtimeconfig.json
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\bin\Debug\net6.0\Lista-EngenhariaDSoftware.dll
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\bin\Debug\net6.0\Lista-EngenhariaDSoftware.pdb
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.csproj.AssemblyReference.cache
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.AssemblyInfoInputs.cache
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.AssemblyInfo.cs
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.csproj.CoreCompileInputs.cache
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.dll
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\refint\Lista-EngenhariaDSoftware.dll
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.pdb
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\Lista-EngenhariaDSoftware.genruntimeconfig.cache
+C:\Users\yan rodrigues\Desktop\Lista-EngenhariaDSoftware\obj\Debug\net6.0\ref\Lista-EngenhariaDSoftware.dll
