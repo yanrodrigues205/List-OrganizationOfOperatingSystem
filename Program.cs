@@ -14,6 +14,10 @@ class Program
         lista.Remover("Valor 3");
         lista.Remover("Valor 2");
 
+
+        lista.Pesquisar("Vaalor 1");
+        lista.Editar("Valor 1", "Valor 123");
         lista.Mostrar();
+
     }
 }

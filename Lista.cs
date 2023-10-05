@@ -74,5 +74,42 @@ namespace Lista_EngenhariaDSoftware
                 noAtual= noAtual.Prox;
             }
         }
+
+
+        public void Pesquisar(string valor)
+        {
+            No noAtual = Topo;
+
+            while(noAtual != null)
+            {
+                if(noAtual.Valor == valor)
+                {
+                    Console.WriteLine("Valor encontrado com sucesso!");
+                    return;
+                }
+                noAtual = noAtual.Prox;
+            }
+
+            Console.WriteLine("Valor não foi encontrado!");
+            return;
+
+        }
+
+        public void Editar(string valor_anterior, string valor_atual) 
+        {
+            No noAtual = Topo;
+            while(noAtual != null)
+            {
+                if(noAtual.Valor == valor_anterior)
+                {
+                    noAtual.Valor = valor_atual; //ATT valor do nó
+                    Console.WriteLine(valor_anterior + " foi editado com sucesso, seu valor atual é: " + valor_atual);
+                    return; 
+                }
+                noAtual = noAtual.Prox;
+            }
+        }
+
+
     }
 }
